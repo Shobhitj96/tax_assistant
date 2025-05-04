@@ -3,3 +3,5 @@ google-generativeai
 rank_bm25
 sentence-transformers
 numpy
+python-dotenv
+
